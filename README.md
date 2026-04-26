@@ -1,8 +1,8 @@
-# Tomasulo-Algorithm-Simulator-EECE421
+# Tomasulo-Algorithm-Simulator
 
 The project was designed according to a set of requirements outlined in a PDF
 
-# EECE 421 - Project Report
+# Project Report
 
 ## System Design:
 
